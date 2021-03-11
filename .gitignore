@@ -3,3 +3,6 @@
 .vscode
 *.sublime*
 build
+build/
+node_modules/
+npm-debug.*
